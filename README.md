@@ -10,6 +10,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/aryajm/]
+
 ## Read my Medium article!
 
 [Asset Correlation Analysis](https://medium.com/@arya.javadi80/asset-correlation-analysis-bce2b58ee0ae)
