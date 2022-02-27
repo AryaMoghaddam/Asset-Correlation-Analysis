@@ -88,6 +88,24 @@ plt.show
 
    You can than change to scaling to logarithmic to get a better visualization of the ticker changes
 
+After getting the price differences I set an empty list in addition to a list of stocks or Crypto currencies I wanted to find the correlation in.
+You can use something like the code cell below:
+
+   ```sh
+for chip in chips:
+    data_chip = pdr.get_data_yahoo(chip, start, now)
+    if len(colnames_chip) == 0:
+        #Take the closest adjusted price and copy it
+        combined_chip = data_chip[['Adj Close']].copy()
+    else:
+        combined_chip = combined_chip.join(data_chip['Adj Close'])
+    #Append to the colnames to know which stock we already added
+    colnames_chip.append(chip)
+    combined_chip.columns = colnames_chip
+   ```
+Next you can input the data in a combined list and visualize a seaborn heatmap, the result should look like below:
+![image](https://user-images.githubusercontent.com/63557848/155867707-7831baf5-f0e5-4ba3-8ec7-935391428c83.png)
+
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
