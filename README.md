@@ -10,7 +10,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/aryajm/]
+[linkedin-shield]][https://www.linkedin.com/in/aryajm/]
 
 ## Read my Medium article!
 
