@@ -23,7 +23,7 @@
 
 ## Read my Medium article!
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) Medium](https://medium.com/@arya.javadi80/asset-correlation-analysis-bce2b58ee0ae)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arya.javadi80/asset-correlation-analysis-bce2b58ee0ae)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
