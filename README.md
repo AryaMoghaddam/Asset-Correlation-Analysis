@@ -31,10 +31,6 @@ Here's why:
 * Learn about Negative Correlation and it's meaning!
 * Find the hidden insights of different company stocks and their values :smile:
 
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -46,25 +42,34 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [matplotlib](https://matplotlib.org/)
 * [datetime](https://docs.python.org/3/library/datetime.html)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+There are a couple of prerequisites that had to be installed for this project, outlined below.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+1- We have to install packages
 * npm
   ```sh
-  npm install npm@latest -g
+  pip install matplotlib seaborn pandas 
   ```
-
-### Installation
+- You may run into troubles  i your pip version is not the last updated version.
+- To update pip run the command below:
+ * npm
+  ```sh
+  pip install pip --upgrade
+  ```
+2- Yahoo Finance API recently went through some changes with the pandas-datareader
+You might have to install data-reader through Conda CMD if you're using Jupyter through Anaconda like me
+In addition you might have to install the package in a cell on the notebook itself through:
+ * npm
+  ```sh
+  !pip install pandas-datareader
+  ```
+### Yahoo Finance API
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
