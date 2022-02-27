@@ -107,7 +107,7 @@ Arya Moghadddam - arya.javadi80@gmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+I used these resources to validate my findings and learn more about different aspects of asset correlation.
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
