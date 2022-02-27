@@ -125,7 +125,7 @@ I used these resources to validate my findings and learn more about different as
 
 * [Crypto-Stock Correlation](https://www.barrons.com/articles/crypto-and-stocks-look-increasingly-correlated-thats-raised-risk-fears-51642207952)
 * [Negative Correlation](https://www.investopedia.com/ask/answers/040815/how-should-i-interpret-negative-correlation.asp)
-* [Neg Correlation Analysis](https://learn.robinhood.com/articles/dhlLGCRuKy6YZY6k2bLPM/what-is-negative-correlation/)
+* [Negative Correlation Analysis](https://learn.robinhood.com/articles/dhlLGCRuKy6YZY6k2bLPM/what-is-negative-correlation/)
 
 
 
