@@ -68,7 +68,6 @@ There are a couple of prerequisites that had to be installed for this project, o
   ```
 ### Yahoo Finance API
 To use the Yahoo Finance API directly you can use the following command
- Clone the repo
    ```sh
    get_data_yahoo
    ```
@@ -77,7 +76,17 @@ Then you can implement the data you want to read from the API by feeding the Tic
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To get the price changes and ploting a visualization I used the following cell:
+   ```sh
+   for ticker in tickers:
+    plt.plot(combined[ticker], label=ticker)
+    
+plt.legend(loc="upper right")
+plt.show
+   ```
+   ![image](https://user-images.githubusercontent.com/63557848/155867635-a9cd66a5-c678-4577-a598-92bb212f5659.png)
+
+   You can than change to scaling to logarithmic to get a better visualization of the ticker changes
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
