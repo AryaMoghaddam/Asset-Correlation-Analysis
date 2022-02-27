@@ -25,7 +25,7 @@ A dive into understanding the correlation between different stock tickers and cr
 Here's why:
 * By understanding asset correlation I can better adjust my portfolio for future investements.
 * Learn about Negative Correlation and it's meaning!
-* Find the hidden insights of different company stocks and their values :think:
+* Find the hidden insights of different company stocks and their values :thinking:
 
 
 
@@ -113,15 +113,9 @@ Arya Moghadddam - arya.javadi80@gmail.com
 
 I used these resources to validate my findings and learn more about different aspects of asset correlation.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
+* [Crypto-Stock Correlation](https://www.barrons.com/articles/crypto-and-stocks-look-increasingly-correlated-thats-raised-risk-fears-51642207952)
+* [Negative Correlation](https://www.investopedia.com/ask/answers/040815/how-should-i-interpret-negative-correlation.asp)
+* [Neg Correlation Analysis](https://learn.robinhood.com/articles/dhlLGCRuKy6YZY6k2bLPM/what-is-negative-correlation/)
 
 
 
