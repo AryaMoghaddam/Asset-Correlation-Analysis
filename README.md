@@ -21,17 +21,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-(![image](https://user-images.githubusercontent.com/63557848/155867059-dfc4407f-6cb9-4fba-97c2-d1736b7feba8.png))
+![image](https://user-images.githubusercontent.com/63557848/155867059-dfc4407f-6cb9-4fba-97c2-d1736b7feba8.png)
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+A dive into understanding the correlation between different stock tickers and crypto currencies.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+* By understanding asset correlation I can better adjust my portfolio for future investements.
+* Learn about Negative Correlation and it's meaning!
+* Find the hidden insights of different company stocks and their values :smile:
 
 Use the `BLANK_README.md` to get started.
 
