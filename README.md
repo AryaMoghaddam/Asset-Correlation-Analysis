@@ -52,20 +52,17 @@ There are a couple of prerequisites that had to be installed for this project, o
 ### Prerequisites
 
 1- We have to install packages
-* npm
   ```sh
   pip install matplotlib seaborn pandas 
   ```
 - You may run into troubles  i your pip version is not the last updated version.
 - To update pip run the command below:
- * npm
   ```sh
   pip install pip --upgrade
   ```
 2- Yahoo Finance API recently went through some changes with the pandas-datareader
-You might have to install data-reader through Conda CMD if you're using Jupyter through Anaconda like me
-In addition you might have to install the package in a cell on the notebook itself through:
- * npm
+- You might have to install data-reader through Conda CMD if you're using Jupyter through Anaconda like me
+- In addition you might have to install the package in a cell on the notebook itself through:
   ```sh
   !pip install pandas-datareader
   ```
