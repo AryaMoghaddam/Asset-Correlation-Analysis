@@ -45,7 +45,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](![image](https://user-images.githubusercontent.com/63557848/155867011-f117fcc8-e2bb-476a-bd5b-7731b78863fb.png))
+[![Product Name Screen Shot][product-screenshot]](https://user-images.githubusercontent.com/63557848/155867044-52d1dbc9-1082-4242-8032-c75f0cb9f044.png)
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
