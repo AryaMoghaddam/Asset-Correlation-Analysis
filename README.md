@@ -55,7 +55,7 @@ There are a couple of prerequisites that had to be installed for this project, o
   ```sh
   pip install matplotlib seaborn pandas 
   ```
-- You may run into troubles  i your pip version is not the last updated version.
+- You may run into troubles with your pip version if it's not the last updated version.
 - To update pip run the command below:
   ```sh
   pip install pip --upgrade
@@ -67,26 +67,12 @@ There are a couple of prerequisites that had to be installed for this project, o
   !pip install pandas-datareader
   ```
 ### Yahoo Finance API
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+To use the Yahoo Finance API directly you can use the following command
+ Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   get_data_yahoo
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+Then you can implement the data you want to read from the API by feeding the Ticker and the sart and finishing time.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
