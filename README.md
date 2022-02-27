@@ -25,7 +25,7 @@ A dive into understanding the correlation between different stock tickers and cr
 Here's why:
 * By understanding asset correlation I can better adjust my portfolio for future investements.
 * Learn about Negative Correlation and it's meaning!
-* Find the hidden insights of different company stocks and their values :smile:
+* Find the hidden insights of different company stocks and their values :think:
 
 
 
