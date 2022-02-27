@@ -10,6 +10,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+### Read my Medium article!
+
+* Asset Correlation Analysis](https://medium.com/@arya.javadi80/asset-correlation-analysis-bce2b58ee0ae)
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
