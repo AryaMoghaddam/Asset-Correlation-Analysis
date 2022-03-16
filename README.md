@@ -91,7 +91,7 @@ plt.show
    ```
    ![image](https://user-images.githubusercontent.com/63557848/155867635-a9cd66a5-c678-4577-a598-92bb212f5659.png)
 
-   You can than change to scaling to logarithmic to get a better visualization of the ticker changes
+   You can than change the scaling to logarithmic to get a better visualization of the ticker changes
 
 After getting the price differences I set an empty list in addition to a list of stocks or Crypto currencies I wanted to find the correlation in.
 You can use something like the code cell below:
